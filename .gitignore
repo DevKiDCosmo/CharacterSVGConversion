@@ -1,0 +1,4 @@
+build/
+.venv/
+.v2/
+__pychache__/
